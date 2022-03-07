@@ -1,0 +1,65 @@
+#container {
+	width: 293px;
+	height: 352px;
+	margin: auto;
+	background-color: white;
+	border-radius: 10px;
+	border: 5px solid black;
+}
+
+h2 {
+	
+	font-family: Courier;
+	text-align: right;
+
+}
+
+.number {
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+	font-family: Courier;
+	background-color:burlywood
+}
+
+.operator {
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+	font-family: Courier;
+	background-color:violet;
+}
+
+.equals {
+	width: 135px;
+	height: 60px;
+	font-size: 30px;
+	font-family: Courier;
+	background-color:violet;
+
+}
+.buttonClear {
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+	font-family: Courier;
+	background-color:darkgoldenrod;
+}
+
+#screen {
+	width: 100%;
+	height: 10%;
+	padding-top: 4px;
+	background-color:darkgray;
+
+}
+
+button {
+	background-color: white;
+	margin: 5px;
+	border-radius: 5px;
+}
+
+.display {
+	margin-right: 10px
+}
